@@ -7,6 +7,8 @@ The course outline can be found in
 
 https://www.tertiarycourses.com.sg/microbit-robotics-training.html
 
+https://www.tertiarycourses.com.my/microbit-robotics-training.html
+
 <p><strong>Module 1 Introduction to Micro:bit</strong></p>
 <ul>
 <li>What is the micro:bit?</li>
